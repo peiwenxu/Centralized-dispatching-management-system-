@@ -1,6 +1,5 @@
 # Centralized dispatching management system Manual
 
 
-![alt text](pictures.png)
-
+![alt text]()
 
