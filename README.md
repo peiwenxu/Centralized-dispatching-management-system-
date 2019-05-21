@@ -5,4 +5,4 @@ Centralized dispatching management system Manual
 login page:
 Note:Google chrome recommended due to browser adaptation issues
 
-![alt text] 
+![alt text](img/Picture1.png)
